@@ -12,9 +12,10 @@
 
 **schedule:**
 * set up specs    : 45 min;
-* set up packages : 45 min;
-* html            : 30 min;
-* css             : 20 min;
+* finish readme   : 10 min;
+* set up packages : 35 min;
+* html            : 35 min;
+* css             : 10 min;
 * back-end.js     : 1 hr;
 * front-end.js    : 30 min;
 * testing         : 1 hr;
