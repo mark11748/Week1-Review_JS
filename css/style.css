@@ -1,0 +1,31 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  padding: 5%;
+  margin: 5%;
+  border: 7px solid yellow;
+}
+input{
+  color: black;
+}
+#earth{
+  border:  7px solid blue;
+  padding-left: 8%;
+}
+#mercury{
+  border:  7px solid red;
+  padding-left: 8%;
+}
+#venus{
+  border:  7px solid green;
+  padding-left: 8%;
+}
+#mars{
+  border:  7px solid orange;
+  padding-left: 8%;
+}
+#jupiter{
+  border:  7px solid tan;
+  padding-left: 8%;
+}
